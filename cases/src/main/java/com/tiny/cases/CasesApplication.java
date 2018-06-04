@@ -9,6 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 声明他是一个客户端，注册中心暴露
+ * 小案例
  */
 @EnableEurekaClient
 @SpringBootApplication
